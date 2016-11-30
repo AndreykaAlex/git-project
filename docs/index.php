@@ -6,7 +6,7 @@
 </head>
 <body>
 	<?php
-		echo "hello git<br/>";
+		echo "hello git";
 		echo "hello branch";
 		echo "string";
 	?>
