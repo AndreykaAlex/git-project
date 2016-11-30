@@ -8,6 +8,7 @@
 	<?php
 		echo "hello git<br/>";
 		echo "hello branch";
+		echo "string";
 	?>
 </body>
 </html>
