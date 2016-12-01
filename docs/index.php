@@ -9,6 +9,7 @@
 		echo "hello git";
 		echo "hello branch";
 		echo "string";
+		echo "new string";
 	?>
 </body>
 </html>
